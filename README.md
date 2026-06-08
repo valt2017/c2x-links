@@ -3,7 +3,7 @@
 * https://pcengines.ch/apu2.html (obsolete, out of stock, Ubuntu Server, OpenWrt)
 * https://www.raspberrypi.com/products/raspberry-pi-5/ (MiniPcie Express Hat, Raspberry Pi OS)
 * https://openwrt.org/toh/avm/fritzbox_3390 (OpenWrt)
-* https://www.espressif.com/en/products/socs/esp32-c5 (Reading works)
+* https://www.espressif.com/en/products/socs/esp32-c5 (Receiving works)
 
 ## Wifi cards
 * https://mikrotik.com/product/R11e-5HnD (still available)
@@ -11,11 +11,11 @@
 * Some other chipsets such as AR9280, AR9380 etc. under ath9k driver.
 
 ## SW
-* https://gitlab.com/hpi-potsdam/osm/g5-on-linux/11p-on-linux
-* https://github.com/florianklingler/OpenC2X-embedded
-* https://esp32-open-mac.be/
-* https://github.com/DatanoiseTV/esp-hosted-open/
-* https://mininet-wifi.github.io/80211p/
+* https://ctu-iig.github.io/802.11p-linux/ (oldest version of patches)
+* https://gitlab.com/hpi-potsdam/osm/g5-on-linux/11p-on-linux (ath9k, wireless db, crda patches)
+* https://github.com/florianklingler/OpenC2X-embedded (ath9k, QoS patches)
+* https://esp32-open-mac.be/ (open-source Wi-Fi layer for the ESP32)
+* https://github.com/DatanoiseTV/esp-hosted-open/ (ESP32 for host CPU, 802.11p, TX 10Mhz width works?)
 
 ## Its Stack
 * https://github.com/riebl/vanetza/ (C++)
