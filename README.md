@@ -31,7 +31,7 @@
 ## Other interesting tools
 * https://v2x2map.com/
 * https://opentrafficmap.org/
-* https://codeberg.org/opentrafficmap
+* https://codeberg.org/opentrafficmap (also esp32 FW with TX enabled)
 * https://github.com/MPW1412/openwrt-otm-bridge/
 * https://via.teskalabs.com/cits/cpoc-ectl/?tenant=cpoc-ectl-l0
 
