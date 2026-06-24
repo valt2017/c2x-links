@@ -3,7 +3,7 @@
 * https://pcengines.ch/apu2.html (obsolete, out of stock, Ubuntu Server, OpenWrt)
 * https://www.raspberrypi.com/products/raspberry-pi-5/ (MiniPcie Express Hat, Raspberry Pi OS)
 * https://openwrt.org/toh/avm/fritzbox_3390 (OpenWrt)
-* https://www.espressif.com/en/products/socs/esp32-c5 (Receiving works)
+* https://www.espressif.com/en/products/socs/esp32-c5 (RX & TX works)
 
 ## Wifi cards
 * https://mikrotik.com/product/R11e-5HnD (still available)
