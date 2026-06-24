@@ -20,7 +20,8 @@
 ## Its Stack
 * https://github.com/riebl/vanetza/ (C++)
 * https://github.com/nap-it/vanetza-nap (C++, Some usefull modifications)
-* https://github.com/CGI-SE-Trusted-Services/c2c-common (Java, PKI commands)
+* https://github.com/alexvoronov/geonetworking (Java, CAMv1, DENMv1)
+* https://github.com/CGI-SE-Trusted-Services/c2c-common (PKI commands)
 * https://github.com/florianklingler/OpenC2X-standalone (C++)
 * https://github.com/Fundacio-i2CAT/FlexStack (Python)
 
